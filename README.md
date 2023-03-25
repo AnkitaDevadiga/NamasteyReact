@@ -1,2 +1,2 @@
 # NamasteyReact
-ZeroToHero
+ZeroToHero in React
